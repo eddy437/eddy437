@@ -2,6 +2,7 @@
 
 <!--
 **eddy437/eddy437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Eczv5-Jb_400x400](https://github.com/user-attachments/assets/97652536-bcbe-43f6-8657-569a13561c33)
 
 Here are some ideas to get you started:
 
